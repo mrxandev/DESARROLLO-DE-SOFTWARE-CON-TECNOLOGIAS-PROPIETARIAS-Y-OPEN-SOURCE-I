@@ -17,7 +17,6 @@ Aplicar herramientas de desarrollo colaborativo utilizando GitHub, control de ve
 ## Flujo de trabajo
 - Rama `main` → versión estable
 - Rama `develop` → desarrollo principal
-- Ramas `feature/*` → nuevas funcionalidades
 
 ## Actividades
 - Creación de Issues
