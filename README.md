@@ -1,5 +1,4 @@
 # Proyecto Académico - DSTPOS I
-
 Repositorio creado para el desarrollo colaborativo de un proyecto académico de la materia Desarrollo de Software con Tecnologías Propietarias y Open Source I.
 
 ## Objetivo
