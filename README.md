@@ -8,10 +8,11 @@ Aplicar herramientas de desarrollo colaborativo utilizando GitHub, control de ve
 🚧 En planificación
 
 ## Integrantes
-- Nombre integrante 1
-- Nombre integrante 2
-- Nombre integrante 3
-- Nombre integrante 4
+- Alexander Rodríguez
+- Alexi Cedano
+- Elvis Páez Vicente
+- Janiel Flores
+- Omar Sánchez
 
 ## Flujo de trabajo
 - Rama `main` → versión estable
